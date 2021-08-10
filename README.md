@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/wave.gif" width="30px">
 My name is __Jeremy Johnson__. Nice to meet you.
 
 A little about me:
