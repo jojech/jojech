@@ -3,7 +3,6 @@ My name is __Jeremy Johnson__. Nice to meet you.
 
 A little about me:
 * I am a software enthusiast that loves the creative process, solving problems, and streamlining data.
-* I recently graduated with my Bachelor's in Information Technology (July 2021).
 <!--
 My Tech Stack:
   <table style="width:100%">
