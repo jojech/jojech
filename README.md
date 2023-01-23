@@ -1,9 +1,6 @@
 ### Hi there <img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/wave.gif" width="30px">
 My name is __Jeremy Johnson__. Nice to meet you.
 
-A little about me:
-* I am a software enthusiast that loves the creative process, solving problems, and streamlining data.
-
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 Check out my <a href="https://linkedin.com/in/jojech" class="fa fa-linkedin">LinkedIn</a>
